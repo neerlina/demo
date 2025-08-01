@@ -1,2 +1,3 @@
 # demo
-this is a GitHub repository.
+This is a GitHub repository.
+Author-NEER.
